@@ -1,2 +1,2 @@
 # GUI processing Library
-A processing librarie for GUI development
+A processing library for GUI development
